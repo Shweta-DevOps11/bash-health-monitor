@@ -1,0 +1,8 @@
+[2026-05-24 09:23:03] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:09] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:14] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:20] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:25] ALERT: CPU is at 100.0% (threshold: 90%)
+[2026-05-24 09:23:25] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:31] ALERT: Service sshd is NOT running
+[2026-05-24 09:23:36] ALERT: Service sshd is NOT running

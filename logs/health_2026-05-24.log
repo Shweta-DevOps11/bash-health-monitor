@@ -1,0 +1,22 @@
+[2026-05-24 09:23:03] [INFO] CPU=4.7% MEM=12.6% DISK=1% LOAD=0.15, 0.16, 0.07
+[2026-05-24 09:23:03] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:03] [INFO] Service cron is running
+[2026-05-24 09:23:09] [INFO] CPU=1.2% MEM=12.7% DISK=1% LOAD=0.14, 0.16, 0.07
+[2026-05-24 09:23:09] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:09] [INFO] Service cron is running
+[2026-05-24 09:23:14] [INFO] CPU=1.2% MEM=12.7% DISK=1% LOAD=0.13, 0.15, 0.07
+[2026-05-24 09:23:14] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:14] [INFO] Service cron is running
+[2026-05-24 09:23:20] [INFO] CPU=12.0% MEM=12.9% DISK=1% LOAD=0.12, 0.15, 0.07
+[2026-05-24 09:23:20] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:20] [INFO] Service cron is running
+[2026-05-24 09:23:25] [ALERT] ALERT: CPU is at 100.0% (threshold: 90%)
+[2026-05-24 09:23:25] [INFO] CPU=100.0% MEM=12.9% DISK=1% LOAD=0.11, 0.15, 0.07
+[2026-05-24 09:23:25] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:25] [INFO] Service cron is running
+[2026-05-24 09:23:31] [INFO] CPU=1.2% MEM=13.1% DISK=1% LOAD=0.10, 0.15, 0.07
+[2026-05-24 09:23:31] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:31] [INFO] Service cron is running
+[2026-05-24 09:23:36] [INFO] CPU=1.2% MEM=13.2% DISK=1% LOAD=0.09, 0.14, 0.07
+[2026-05-24 09:23:36] [ALERT] Service sshd is NOT running
+[2026-05-24 09:23:36] [INFO] Service cron is running
